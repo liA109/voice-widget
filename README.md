@@ -9,8 +9,8 @@ Features:
 
 Setup & Run
 1. Clone the repository:
-git clone https://github.com/liA109/voice-widget.git
-cd voice-widget
+git clone https://github.com/liA109/voice-widget.git;
+cd voice-widget;
 
 2. Install dependencies:
 npm install
