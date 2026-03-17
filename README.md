@@ -9,16 +9,16 @@ Features:
 
 Setup & Run
 1. Clone the repository:
-2. git clone https://github.com/liA109/voice-widget.git
+git clone https://github.com/liA109/voice-widget.git
 cd voice-widget
 
-3. Install dependencies:
+2. Install dependencies:
 npm install
 
-4. Start the development server:
+3. Start the development server:
 npm start
 
-5. Open http://localhost:3000 in your browser
+4. Open http://localhost:3000 in your browser
 
 Configuration
 Replace the following in App.jsx with your keys:
